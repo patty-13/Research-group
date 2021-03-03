@@ -1,0 +1,443 @@
+,Articles,Cosine similarity,url
+0,3M Pharmaceuticals,0.038135135,https://en.wikipedia.org/wiki/3M
+1,AAH Pharmaceuticals,0.010351351,https://en.wikipedia.org/wiki/AAH_Pharmaceuticals
+2,ACG Group,0.002162162,https://en.wikipedia.org/wiki/ACG_Group
+3,ALK-Abelló,0.001972973,https://en.wikipedia.org/wiki/ALK-Abell%C3%B3
+4,ARIAD Pharmaceuticals,0.035459459,https://en.wikipedia.org/wiki/ARIAD_Pharmaceuticals
+5,AbbVie Inc.,0.005972973,https://en.wikipedia.org/wiki/AbbVie
+6,Abbott Laboratories,0.023135135,https://en.wikipedia.org/wiki/Abbott_Laboratories
+7,Acadia Pharmaceuticals,0.004783784,https://en.wikipedia.org/wiki/Acadia_Pharmaceuticals
+8,Acorda Therapeutics,0.017918919,https://en.wikipedia.org/wiki/Acorda_Therapeutics
+9,Actavis,0.000864865,https://en.wikipedia.org/wiki/Actavis
+10,Actelion,0.050081081,https://en.wikipedia.org/wiki/Actelion
+11,Adcock Ingram,0,https://en.wikipedia.org/wiki/Adcock_Ingram
+12,Aderis Pharmaceuticals,0.042405405,https://en.wikipedia.org/wiki/Aderis_Pharmaceuticals
+13,Adolor Corporation,0.005108108,https://en.wikipedia.org/wiki/Cubist_Pharmaceuticals
+14,Advanced Chemical Industries (ACI),0.00372973,https://en.wikipedia.org/wiki/ACI_Limited
+15,Advanz Pharma,0.002972973,https://en.wikipedia.org/wiki/Advanz_Pharma
+16,Advaxis,0.003648649,https://en.wikipedia.org/wiki/Advaxis
+17,Ajanta Pharma,0.023918919,https://en.wikipedia.org/wiki/Ajanta_Pharma
+18,Alcon,0.011675676,https://en.wikipedia.org/wiki/Alcon
+19,Alembic Pharmaceuticals Ltd,0.091540541,https://en.wikipedia.org/wiki/Alembic_Pharmaceuticals
+20,Alexion Pharmaceuticals,0.020945946,https://en.wikipedia.org/wiki/Alexion_Pharmaceuticals
+21,Alkaloid (company),0.002540541,https://en.wikipedia.org/wiki/Alkaloid_(company)
+22,Alkermes (company),0.006567568,https://en.wikipedia.org/wiki/Alkermes_(company)
+23,Allen & Hanburys,0.015081081,https://en.wikipedia.org/wiki/Allen_%26_Hanburys
+24,Allergan,0.006621622,https://en.wikipedia.org/wiki/Allergen
+25,"Allergan, Inc.",0.001027027,"https://en.wikipedia.org/wiki/Allergan,_Inc."
+26,Almirall,0,https://en.wikipedia.org/wiki/Admiral
+27,Alnylam Pharmaceuticals,0.001864865,https://en.wikipedia.org/wiki/Alnylam_Pharmaceuticals
+28,Alphapharm,0,https://en.wikipedia.org/wiki/Alphapharm
+29,Altana,0.018702703,https://en.wikipedia.org/wiki/Altana
+30,Alza,0.012513514,https://en.wikipedia.org/wiki/Alza
+31,Alzheon,0.009567568,https://en.wikipedia.org/wiki/Alzheon
+32,American Pharmacists Association,0.039864865,https://en.wikipedia.org/wiki/American_Pharmacists_Association
+33,Amersham plc,0.045054054,https://en.wikipedia.org/wiki/Amersham_plc
+34,Amneal Pharmaceuticals,0.00127027,https://en.wikipedia.org/wiki/Amneal_Pharmaceuticals
+35,Amylin Pharmaceuticals,0.001702703,https://en.wikipedia.org/wiki/Amylin_Pharmaceuticals
+36,Anacor,0.006378378,https://en.wikipedia.org/wiki/Anacor
+37,Anatomy of an Epidemic,0.051918919,https://en.wikipedia.org/wiki/Anatomy_of_an_Epidemic
+38,Antibody Solutions,0.012783784,https://en.wikipedia.org/wiki/Antibody_Solutions
+39,Apotex,0.001243243,https://en.wikipedia.org/wiki/Apotex
+40,Aptalis,0.003108108,https://en.wikipedia.org/wiki/Aptalis
+41,Arbutus Biopharma,0.002135135,https://en.wikipedia.org/wiki/Arbutus_Biopharma
+42,AryoGen,0.007972973,https://en.wikipedia.org/wiki/AryoGen
+43,Aspen Pharmacare,0.007486486,https://en.wikipedia.org/wiki/Aspen_Pharmacare
+44,Assertio Therapeutics,0.046594595,https://en.wikipedia.org/wiki/Assertio_Therapeutics
+45,Astellas Pharma,0.001162162,https://en.wikipedia.org/wiki/Astellas_Pharma
+46,AstraZeneca,0.051378378,https://en.wikipedia.org/wiki/AstraZeneca
+47,Astra AB,0.005297297,https://en.wikipedia.org/wiki/Astra_AB
+48,Aurobindo Pharma,0.058918919,https://en.wikipedia.org/wiki/Aurobindo_Pharma
+49,Avax Technologies,0.052297297,https://en.wikipedia.org/wiki/Avax_Technologies
+50,Avella Specialty Pharmacy,0.025324324,https://en.wikipedia.org/wiki/Avella_Specialty_Pharmacy
+51,Aventis Pharma,0.010702703,https://en.wikipedia.org/wiki/Sanofi
+52,B. Braun Melsungen,0.005756757,https://en.wikipedia.org/wiki/B._Braun
+53,BCM (Fareva),0.023108108,https://en.wikipedia.org/wiki/BCM_(Fareva)
+54,BTG plc,0.019162162,https://en.wikipedia.org/wiki/BTG_(company)
+55,Bad Pharma,0,https://en.wikipedia.org/wiki/Bad_Pharma
+56,Bargn Farmaceutici Phils Co,0.10927027,https://en.wikipedia.org/wiki/Bargn_Farmaceutici_Phils_Co
+57,Barr Pharmaceuticals,0.005513514,https://en.wikipedia.org/wiki/Barr_Pharmaceuticals
+58,Bausch & Lomb,0.069243243,https://en.wikipedia.org/wiki/Bausch_%26_Lomb
+59,Bausch Health,0.021378378,https://en.wikipedia.org/wiki/Bausch_Health
+60,Baxalta,0.007216216,https://en.wikipedia.org/wiki/Baxalta
+61,Baxter International,0.020108108,https://en.wikipedia.org/wiki/Baxter_International
+62,Bayer,0,https://en.wikipedia.org/wiki/Bayer
+63,Beer and breweries by region,0,https://en.wikipedia.org/wiki/Beer_and_breweries_by_region
+64,Benitec Biopharma,0.02572973,https://en.wikipedia.org/wiki/Benitec_Biopharma
+65,Beximco Pharmaceuticals Ltd,0,https://en.wikipedia.org/wiki/Beximco_Pharma
+66,Bial,0.004513514,https://en.wikipedia.org/wiki/Bial
+67,Big Pharma (book),0.048594595,https://en.wikipedia.org/wiki/Big_Pharma_(book)
+68,BioCryst Pharmaceuticals,0.001918919,https://en.wikipedia.org/wiki/BioCryst_Pharmaceuticals
+69,BioMarin Pharmaceutical,0.050459459,https://en.wikipedia.org/wiki/BioMarin_Pharmaceutical
+70,BioMérieux,0.005513514,https://en.wikipedia.org/wiki/BioM%C3%A9rieux
+71,Biocon,0.010702703,https://en.wikipedia.org/wiki/Bioko
+72,Biogen,0.009837838,https://en.wikipedia.org/wiki/Biogen
+73,Biolex,0.033459459,https://en.wikipedia.org/wiki/Biolex
+74,BiondVax,0.009594595,https://en.wikipedia.org/wiki/BiondVax
+75,Bionovo,0.012081081,https://en.wikipedia.org/wiki/Bionovo
+76,Biotecnol,0.006756757,https://en.wikipedia.org/wiki/Biotecnol
+77,Biovail,0.026783784,https://en.wikipedia.org/wiki/Biovail
+78,Bioverativ,0.003405405,https://en.wikipedia.org/wiki/Bioverativ
+79,Biovest,0.006756757,https://en.wikipedia.org/wiki/Biovest
+80,Biovista,0.017972973,https://en.wikipedia.org/wiki/Biovista
+81,Bluepharma,0.004378378,https://en.wikipedia.org/wiki/Bluepharma
+82,Boehringer Ingelheim,0.003648649,https://en.wikipedia.org/wiki/Boehringer_Ingelheim
+83,Boehringer Mannheim,0.008972973,https://en.wikipedia.org/wiki/Roche_Diagnostics
+84,Bosnalijek,0.010216216,https://en.wikipedia.org/wiki/Bosnalijek
+85,Bristol-Myers Squibb,0.031378378,https://en.wikipedia.org/wiki/Bristol_Myers_Squibb
+86,Buchler (Company),0.046297297,https://en.wikipedia.org/wiki/List_of_pharmaceutical_companies
+87,CSL Behring,0.000648649,https://en.wikipedia.org/wiki/CSL_Behring
+88,CSL Limited,0.003891892,https://en.wikipedia.org/wiki/CSL_Limited
+89,Cadila Healthcare,0.001810811,https://en.wikipedia.org/wiki/Cadila_Healthcare
+90,Cadila Pharmaceuticals,0.005378378,https://en.wikipedia.org/wiki/Cadila_Pharmaceuticals
+91,Cambridge Antibody Technology,0.048297297,https://en.wikipedia.org/wiki/Cambridge_Antibody_Technology
+92,Canadian Plasma Resources,0.015891892,https://en.wikipedia.org/wiki/Canadian_Plasma_Resources
+93,Cangene,0.008540541,https://en.wikipedia.org/wiki/Candee
+94,Capsugel,0,https://en.wikipedia.org/wiki/Capsugel
+95,CareFusion,0.031297297,https://en.wikipedia.org/wiki/CareFusion
+96,Catabasis Pharmaceuticals,0.008162162,https://en.wikipedia.org/wiki/Catabasis_Pharmaceuticals
+97,Catalent,0.002027027,https://en.wikipedia.org/wiki/Catalent
+98,Cathay Drug,0.010216216,https://en.wikipedia.org/wiki/Cathay_Drug
+99,Celgene,0.068972973,https://en.wikipedia.org/wiki/Celgene
+100,Celltech,0.066486486,https://en.wikipedia.org/wiki/Celltech
+101,Century Pharmaceuticals,0.035189189,https://en.wikipedia.org/wiki/Century_Pharmaceuticals
+102,Cephalon,0.010756757,https://en.wikipedia.org/wiki/Cephalonia
+103,Ceragenix Pharmaceuticals,0.022513514,https://en.wikipedia.org/wiki/Ceragenix_Pharmaceuticals
+104,Chemidex,0.005405405,https://en.wikipedia.org/wiki/Chemidex
+105,Chiesi Farmaceutici S.p.A.,0,https://en.wikipedia.org/wiki/Chiesi_Farmaceutici
+106,Chiron Corporation,0.015162162,https://en.wikipedia.org/wiki/Chiron_Corporation
+107,Chugai Pharmaceutical Co.,0.123972973,https://en.wikipedia.org/wiki/Chugai_Pharmaceutical_Co.
+108,CinnaGen,0.048594595,https://en.wikipedia.org/wiki/Cinnagen
+109,Cipla,0.077027027,https://en.wikipedia.org/wiki/Cipla
+110,Clinical research associate,0.014243243,https://en.wikipedia.org/wiki/Clinical_research_associate
+111,Clovis Oncology,0.003648649,https://en.wikipedia.org/wiki/Clovis_Oncology
+112,CoCo Therapeutics,0.019108108,https://en.wikipedia.org/wiki/CoCo_Therapeutics
+113,CoTherix,0.050081081,https://en.wikipedia.org/wiki/Actelion
+114,Contract research organization,0.039027027,https://en.wikipedia.org/wiki/Contract_research_organization
+115,Cubist Pharmaceuticals,0.005108108,https://en.wikipedia.org/wiki/Cubist_Pharmaceuticals
+116,CureVac,0.001594595,https://en.wikipedia.org/wiki/CureVac
+117,Cymbal manufacturers,0.010540541,https://en.wikipedia.org/wiki/Cymbal_manufacturers
+118,Cynapsus Therapeutics,0.059324324,https://en.wikipedia.org/wiki/Cynapsus_Therapeutics
+119,CytRx,0.019108108,https://en.wikipedia.org/wiki/CytRx
+120,Dabur,0.016756757,https://en.wikipedia.org/wiki/Dauber
+121,Daiichi Sankyo,0,https://en.wikipedia.org/wiki/Daiichi_Sankyo
+122,Dawakhana Shifaul Amraz,0.007783784,https://en.wikipedia.org/wiki/Dawakhana_Shifaul_Amraz
+123,Debiopharm,0.003108108,https://en.wikipedia.org/wiki/Debiopharm
+124,Dentsply Sirona,0.007378378,https://en.wikipedia.org/wiki/Dentsply_Sirona
+125,Deurali-Janta Pharmaceuticals,0.002918919,https://en.wikipedia.org/wiki/Deurali-Janta_Pharmaceuticals
+126,Diabetology Ltd,0.013513514,https://en.wikipedia.org/wiki/Diabetology_Ltd
+127,Diffusion Pharmaceuticals,0.004027027,https://en.wikipedia.org/wiki/Diffusion_Pharmaceuticals
+128,Dr. Reddy's Laboratories,0.065702703,https://en.wikipedia.org/wiki/Dr._Reddy%27s_Laboratories
+129,Drug rep,0.040945946,https://en.wikipedia.org/wiki/Pharmaceutical_sales_representative
+130,Ego Pharmaceuticals,0.005756757,https://en.wikipedia.org/wiki/Ego_Pharmaceuticals
+131,Eisai (company),0,https://en.wikipedia.org/wiki/Eisai_(company)
+132,Elder Pharmaceuticals,0.035675676,https://en.wikipedia.org/wiki/Elder_Pharmaceuticals
+133,Eli Lilly and Company,0.044594595,https://en.wikipedia.org/wiki/Eli_Lilly_and_Company
+134,Emcure Pharmaceuticals,0.014945946,https://en.wikipedia.org/wiki/Emcure_Pharmaceuticals
+135,Emergent BioSolutions,0.035918919,https://en.wikipedia.org/wiki/Emergent_BioSolutions
+136,Endo International plc,0.02627027,https://en.wikipedia.org/wiki/Endo_International
+137,Eskayef Pharmaceuticals Ltd.,0.036405405,https://en.wikipedia.org/wiki/Eskayef_Pharmaceuticals_Ltd.
+138,Esteve,0.005513514,https://en.wikipedia.org/wiki/Esteve
+139,Fabre-Kramer Pharmaceuticals,0.032135135,https://en.wikipedia.org/wiki/Fabre-Kramer_Pharmaceuticals
+140,Fareva,0.005405405,https://en.wikipedia.org/wiki/Fareva
+141,Faron Pharmaceuticals,0.005297297,https://en.wikipedia.org/wiki/Faron_Pharmaceuticals
+142,Ferring Pharmaceuticals,0.057027027,https://en.wikipedia.org/wiki/Ferring_Pharmaceuticals
+143,Food and Drug Administration,0.001810811,https://en.wikipedia.org/wiki/Food_and_Drug_Administration
+144,Forest Laboratories,0,https://en.wikipedia.org/wiki/Forest_Laboratories
+145,Fortress Biotech,0.010216216,https://en.wikipedia.org/wiki/Fortress_Biotech
+146,Fresenius,0,https://en.wikipedia.org/wiki/Fresenius_(company)
+147,"G.D. Searle, LLC",0.001405405,"https://en.wikipedia.org/wiki/G.D._Searle,_LLC"
+148,G.F. Harvey Company,0.006189189,https://en.wikipedia.org/wiki/G.F._Harvey_Company
+149,GPC Biotech,0.00972973,https://en.wikipedia.org/wiki/GPC_Biotech
+150,Galderma,0.084405405,https://en.wikipedia.org/wiki/Galderma
+151,Gedeon Richter (company),0.030837838,https://en.wikipedia.org/wiki/Gedeon_Richter_(company)
+152,General Pharma,0.013918919,https://en.wikipedia.org/wiki/General_Pharma
+153,Genmab,0.017945946,https://en.wikipedia.org/wiki/Genmab
+154,Gilead Sciences,0.005,https://en.wikipedia.org/wiki/Gilead_Sciences
+155,Glatt group,0.002945946,https://en.wikipedia.org/wiki/Glatt_group
+156,GlaxoSmithKline,0.000810811,https://en.wikipedia.org/wiki/GlaxoSmithKline
+157,Glenmark Pharmaceuticals,0.002081081,https://en.wikipedia.org/wiki/Glenmark_Pharmaceuticals
+158,Grifols,0.014567568,https://en.wikipedia.org/wiki/Grifols
+159,Grindeks,0.07472973,https://en.wikipedia.org/wiki/Grindeks
+160,Grünenthal,0.001378378,https://en.wikipedia.org/wiki/Gr%C3%BCnenthal
+161,Help Remedies,0.019108108,https://en.wikipedia.org/wiki/Help_Remedies
+162,Hemispherx Biopharma,0.003648649,https://en.wikipedia.org/wiki/AIM_ImmunoTech
+163,Hetero Drugs,0.006972973,https://en.wikipedia.org/wiki/Hetero_Drugs
+164,Hikma Pharmaceuticals,0.063648649,https://en.wikipedia.org/wiki/Hikma_Pharmaceuticals
+165,Hoechst AG,0.041108108,https://en.wikipedia.org/wiki/Hoechst_AG
+166,Hoffmann–La Roche,0.061432432,https://en.wikipedia.org/wiki/Hoffmann-La_Roche
+167,Horizon Therapeutics,0.011135135,https://en.wikipedia.org/wiki/Horizon_Therapeutics
+168,Hospira,0.001297297,https://en.wikipedia.org/wiki/Hospira
+169,Hovione,0.003243243,https://en.wikipedia.org/wiki/Hovione
+170,Huadong Medicine,0.019108108,https://en.wikipedia.org/wiki/Huadong_Medicine
+171,Human Genome Sciences,0.02872973,https://en.wikipedia.org/wiki/Human_Genome_Sciences
+172,ITH Pharma,0.061621622,https://en.wikipedia.org/wiki/ITH_Pharma
+173,Incepta Pharmaceuticals,0.003108108,https://en.wikipedia.org/wiki/Incepta_Pharmaceuticals
+174,Incyte,0.017648649,https://en.wikipedia.org/wiki/Incyte
+175,Institute for OneWorld Health,0.017432432,https://en.wikipedia.org/wiki/PATH_(global_health_organization)
+176,Intas Biopharmaceuticals,0.017972973,https://en.wikipedia.org/wiki/Intas_Biopharmaceuticals
+177,Intellia Therapeutics,0.005756757,https://en.wikipedia.org/wiki/Intellia_Therapeutics
+178,Ionis Pharmaceuticals,0.025297297,https://en.wikipedia.org/wiki/Ionis_Pharmaceuticals
+179,Ipca Laboratories,0.006054054,https://en.wikipedia.org/wiki/Ipca_Laboratories
+180,Ipsen,0,https://en.wikipedia.org/wiki/Henrik_Ibsen
+181,JN-International Medical Corporation,0.019567568,https://en.wikipedia.org/wiki/JN-International_Medical_Corporation
+182,Janssen Pharmaceutica,0,https://en.wikipedia.org/wiki/Janssen_Pharmaceuticals
+183,Jazz Pharmaceuticals,0.040864865,https://en.wikipedia.org/wiki/Jazz_Pharmaceuticals
+184,Jenapharm,0.005027027,https://en.wikipedia.org/wiki/Jenapharm
+185,Johnson & Johnson,0.006108108,https://en.wikipedia.org/wiki/Johnson_%26_Johnson
+186,Julphar,0.067324324,https://en.wikipedia.org/wiki/Julphar
+187,Juno Therapeutics,0.013567568,https://en.wikipedia.org/wiki/Juno_Therapeutics
+188,Kimia Farma,0.030189189,https://en.wikipedia.org/wiki/Kimia_Farma
+189,King Pharmaceuticals,0.053594595,https://en.wikipedia.org/wiki/King_Pharmaceuticals
+190,Kite Pharma,0.005621622,https://en.wikipedia.org/wiki/Kite_Pharma
+191,Knoll Pharmaceuticals,0.002702703,https://en.wikipedia.org/wiki/Knoll_Pharmaceuticals
+192,Kyowa Hakko Kirin,0.056837838,https://en.wikipedia.org/wiki/Kyowa_Hakko_Kirin
+193,Laboratoires Pierre Fabre,0.029486486,https://en.wikipedia.org/wiki/Laboratoires_Pierre_Fabre
+194,Laboratoires Servier,0.001648649,https://en.wikipedia.org/wiki/Laboratoires_Servier
+195,Leo Pharma,0.005297297,https://en.wikipedia.org/wiki/Leo_Pharma
+196,List of CIGS companies,0.047243243,https://en.wikipedia.org/wiki/List_of_CIGS_companies
+197,List of Champagne houses,0.024918919,https://en.wikipedia.org/wiki/List_of_Champagne_houses
+198,List of EDA companies,0.013027027,https://en.wikipedia.org/wiki/List_of_EDA_companies
+199,List of advertising technology companies,0,https://en.wikipedia.org/wiki/List_of_advertising_technology_companies
+200,List of aerial lift manufacturers,0.050621622,https://en.wikipedia.org/wiki/List_of_aerial_lift_manufacturers
+201,List of aircraft manufacturers,0.014081081,https://en.wikipedia.org/wiki/List_of_aircraft_manufacturers
+202,List of airline holding companies,0.028297297,https://en.wikipedia.org/wiki/List_of_airline_holding_companies
+203,List of animation studios,0.012108108,https://en.wikipedia.org/wiki/List_of_animation_studios
+204,List of anime companies,0.007837838,https://en.wikipedia.org/wiki/List_of_anime_companies
+205,List of asset management firms,0.020918919,https://en.wikipedia.org/wiki/List_of_asset_management_firms
+206,List of astronomical instrument makers,0.00972973,https://en.wikipedia.org/wiki/List_of_astronomical_instrument_makers
+207,List of automation integrator companies,0.032459459,https://en.wikipedia.org/wiki/Automation_integrator
+208,List of automobile manufacturers,0.01272973,https://en.wikipedia.org/wiki/List_of_automobile_manufacturers
+209,List of bean-to-bar chocolate manufacturers,0,https://en.wikipedia.org/wiki/List_of_bean-to-bar_chocolate_manufacturers
+210,List of bicycle brands and manufacturing companies,0.026459459,https://en.wikipedia.org/wiki/List_of_bicycle_brands_and_manufacturing_companies
+211,List of book sales clubs,0.002378378,https://en.wikipedia.org/wiki/List_of_book_sales_clubs
+212,List of bookstore chains,0.008243243,https://en.wikipedia.org/wiki/List_of_bookstore_chains
+213,List of bus operating companies,0.003297297,https://en.wikipedia.org/wiki/List_of_bus_operating_companies
+214,List of cable television companies,0.016567568,https://en.wikipedia.org/wiki/List_of_cable_television_companies
+215,List of casinos,0.010135135,https://en.wikipedia.org/wiki/List_of_casinos
+216,List of casual dining restaurant chains,0.024162162,https://en.wikipedia.org/wiki/List_of_casual_dining_restaurant_chains
+217,List of chained-brand hotels,0.006702703,https://en.wikipedia.org/wiki/List_of_chained-brand_hotels
+218,List of charter airlines,0.019594595,https://en.wikipedia.org/wiki/List_of_charter_airlines
+219,List of cheesemakers,0.011243243,https://en.wikipedia.org/wiki/List_of_cheesemakers
+220,List of coffee companies,0.014432432,https://en.wikipedia.org/wiki/List_of_coffee_companies
+221,List of coffeehouse chains,0.008297297,https://en.wikipedia.org/wiki/List_of_coffeehouse_chains
+222,List of computer hardware manufacturers,0.003,https://en.wikipedia.org/wiki/List_of_computer_hardware_manufacturers
+223,List of computer system manufacturers,0.006432432,https://en.wikipedia.org/wiki/List_of_computer_system_manufacturers
+224,List of concentrating solar thermal power companies,0.00672973,https://en.wikipedia.org/wiki/List_of_concentrating_solar_thermal_power_companies
+225,List of construction equipment rental companies,0.005486486,https://en.wikipedia.org/wiki/Equipment_rental
+226,List of convenience stores,0.055324324,https://en.wikipedia.org/wiki/List_of_convenience_stores
+227,List of cruise lines,0.004351351,https://en.wikipedia.org/wiki/List_of_cruise_lines
+228,List of defunct airlines,0.007162162,https://en.wikipedia.org/wiki/List_of_defunct_airlines
+229,List of department stores by country,0.00272973,https://en.wikipedia.org/wiki/List_of_department_stores_by_country
+230,List of disc golf brands and manufacturers,0.010702703,https://en.wikipedia.org/wiki/List_of_disc_golf_brands_and_manufacturers
+231,List of drugs,0.006135135,https://en.wikipedia.org/wiki/List_of_drugs
+232,List of dump truck manufacturers,0.002918919,https://en.wikipedia.org/wiki/List_of_dump_truck_manufacturers
+233,List of electric-vehicle-battery manufacturers,0.013540541,https://en.wikipedia.org/wiki/List_of_electric-vehicle-battery_manufacturers
+234,List of electronics brands,0.072054054,https://en.wikipedia.org/wiki/List_of_electronics_brands
+235,List of enterprise search vendors,0.015054054,https://en.wikipedia.org/wiki/List_of_enterprise_search_vendors
+236,List of fast food restaurant chains,0.003972973,https://en.wikipedia.org/wiki/List_of_fast_food_restaurant_chains
+237,List of ferry operators,0.029594595,https://en.wikipedia.org/wiki/List_of_ferry_operators
+238,List of film production companies,0.015891892,https://en.wikipedia.org/wiki/List_of_film_production_companies
+239,List of fitness wear brands,0.027027027,https://en.wikipedia.org/wiki/List_of_fitness_wear_brands
+240,List of flash memory controller manufacturers,0.012972973,https://en.wikipedia.org/wiki/List_of_flash_memory_controller_manufacturers
+241,List of food companies,0.065216216,https://en.wikipedia.org/wiki/List_of_food_companies
+242,List of freight ship companies,0.094243243,https://en.wikipedia.org/wiki/List_of_freight_ship_companies
+243,List of game manufacturers,0.009675676,https://en.wikipedia.org/wiki/List_of_game_manufacturers
+244,List of golf equipment manufacturers,0.034972973,https://en.wikipedia.org/wiki/List_of_golf_equipment_manufacturers
+245,List of health club chains,0.015945946,https://en.wikipedia.org/wiki/List_of_health_club_chains
+246,List of horn makers,0.005027027,https://en.wikipedia.org/wiki/List_of_horn_makers
+247,List of hypermarkets,0.003162162,https://en.wikipedia.org/wiki/List_of_hypermarkets
+248,List of ice cream parlor chains,0.017027027,https://en.wikipedia.org/wiki/List_of_ice_cream_parlor_chains
+249,List of independent bookstores,0.022783784,https://en.wikipedia.org/wiki/List_of_independent_bookstores
+250,List of international auto shipping companies,0.027027027,https://en.wikipedia.org/wiki/List_of_international_auto_shipping_companies
+251,List of international banking institutions,0.042054054,https://en.wikipedia.org/wiki/List_of_international_banking_institutions
+252,List of investment banks,0.012054054,https://en.wikipedia.org/wiki/List_of_investment_banks
+253,List of largest biotechnology & pharmaceutical companies,0.166513514,https://en.wikipedia.org/wiki/List_of_largest_biotechnology_and_pharmaceutical_companies
+254,List of largest biotechnology and pharmaceutical companies,0.166513514,https://en.wikipedia.org/wiki/List_of_largest_biotechnology_and_pharmaceutical_companies
+255,List of largest chemical producers,0.006972973,https://en.wikipedia.org/wiki/List_of_largest_chemical_producers
+256,List of largest law firms by profits per partner,0.007,https://en.wikipedia.org/wiki/List_of_largest_law_firms_by_profits_per_partner
+257,List of largest oil and gas companies by revenue,0.018621622,https://en.wikipedia.org/wiki/List_of_largest_oil_and_gas_companies_by_revenue
+258,List of largest pharmaceutical settlements,0.106756757,https://en.wikipedia.org/wiki/List_of_largest_pharmaceutical_settlements
+259,List of lingerie brands,0.016324324,https://en.wikipedia.org/wiki/List_of_lingerie_brands
+260,List of locomotive builders,0.054054054,https://en.wikipedia.org/wiki/List_of_locomotive_builders
+261,List of low-cost airlines,0.00727027,https://en.wikipedia.org/wiki/List_of_low-cost_airlines
+262,List of management consulting firms,0.006189189,https://en.wikipedia.org/wiki/List_of_management_consulting_firms
+263,List of marketing research firms,0.052918919,https://en.wikipedia.org/wiki/List_of_marketing_research_firms
+264,List of microphone manufacturers,0.022054054,https://en.wikipedia.org/wiki/List_of_microphone_manufacturers
+265,List of modern armament manufacturers,0.005108108,https://en.wikipedia.org/wiki/List_of_modern_armament_manufacturers
+266,List of motorcycle manufacturers,0.015162162,https://en.wikipedia.org/wiki/List_of_motorcycle_manufacturers
+267,List of mountaineering equipment brands,0.029405405,https://en.wikipedia.org/wiki/List_of_mountaineering_equipment_brands
+268,List of off-label promotion pharmaceutical settlements,0.047972973,https://en.wikipedia.org/wiki/List_of_off-label_promotion_pharmaceutical_settlements
+269,List of oil exploration and production companies,0.020432432,https://en.wikipedia.org/wiki/List_of_oil_exploration_and_production_companies
+270,List of oilfield service companies,0.010378378,https://en.wikipedia.org/wiki/List_of_oilfield_service_companies
+271,List of passenger airlines,0.007594595,https://en.wikipedia.org/wiki/List_of_passenger_airlines
+272,List of passenger ship companies,0.031351351,https://en.wikipedia.org/wiki/List_of_passenger_ship_companies
+273,List of pharmaceutical manufacturers in the United Kingdom,0.039459459,https://en.wikipedia.org/wiki/List_of_pharmaceutical_manufacturers_in_the_United_Kingdom
+274,List of pharmacies,0.083459459,https://en.wikipedia.org/wiki/List_of_pharmacies
+275,List of photovoltaics companies,0.006567568,https://en.wikipedia.org/wiki/List_of_photovoltaics_companies
+276,List of pizza chains,0.016837838,https://en.wikipedia.org/wiki/List_of_pizza_chains
+277,List of pornography companies,0.006972973,https://en.wikipedia.org/wiki/List_of_pornography_companies
+278,List of private equity firms,0.022351351,https://en.wikipedia.org/wiki/List_of_private-equity_firms
+279,List of public utilities,0.067486486,https://en.wikipedia.org/wiki/List_of_public_utilities
+280,List of publishers of children's books,0.00627027,https://en.wikipedia.org/wiki/List_of_publishers_of_children%27s_books
+281,List of radio-controlled model aircraft kit manufacturers,0,https://en.wikipedia.org/wiki/List_of_radio-controlled_model_aircraft_kit_manufacturers
+282,List of railway companies,0.041162162,https://en.wikipedia.org/wiki/List_of_railway_companies
+283,List of regional airlines,0.013378378,https://en.wikipedia.org/wiki/List_of_regional_airlines
+284,List of restaurant chains,0.024081081,https://en.wikipedia.org/wiki/List_of_restaurant_chains
+285,List of retailers' cooperatives,0.042108108,https://en.wikipedia.org/wiki/List_of_retailers%27_cooperatives
+286,List of revolving restaurants,0.003459459,https://en.wikipedia.org/wiki/List_of_revolving_restaurants
+287,List of rolling stock manufacturers,0.023243243,https://en.wikipedia.org/wiki/List_of_rolling_stock_manufacturers
+288,List of scooter manufacturers,0.033108108,https://en.wikipedia.org/wiki/List_of_scooter_manufacturers
+289,List of semiconductor IP core vendors,0.018540541,https://en.wikipedia.org/wiki/List_of_semiconductor_IP_core_vendors
+290,List of ship companies,0,https://en.wikipedia.org/wiki/List_of_ship_companies
+291,List of silicon producers,0.005675676,https://en.wikipedia.org/wiki/List_of_silicon_producers
+292,List of skateboarding brands,0.019108108,https://en.wikipedia.org/wiki/List_of_skateboarding_brands
+293,List of ski brands,0.027027027,https://en.wikipedia.org/wiki/List_of_ski_brands
+294,List of soft drink producers,0.018972973,https://en.wikipedia.org/wiki/List_of_soft_drink_producers
+295,List of solid-state drive manufacturers,0.018837838,https://en.wikipedia.org/wiki/List_of_solid-state_drive_manufacturers
+296,List of sporting goods manufacturers,0.019108108,https://en.wikipedia.org/wiki/List_of_sporting_goods_manufacturers
+297,List of steel producers,0.003891892,https://en.wikipedia.org/wiki/List_of_steel_producers
+298,List of stock exchanges,0.034378378,https://en.wikipedia.org/wiki/List_of_stock_exchanges
+299,List of stuffed toy manufacturers,0.063027027,https://en.wikipedia.org/wiki/List_of_stuffed_toy_manufacturers
+300,List of supermarket chains,0.009567568,https://en.wikipedia.org/wiki/List_of_supermarket_chains
+301,List of superstores,0.013918919,https://en.wikipedia.org/wiki/List_of_superstores
+302,List of swimwear brands,0.027027027,https://en.wikipedia.org/wiki/List_of_swimwear_brands
+303,List of tea companies,0.02627027,https://en.wikipedia.org/wiki/List_of_tea_companies
+304,List of telephone operating companies,0.014162162,https://en.wikipedia.org/wiki/List_of_telephone_operating_companies
+305,List of television networks by country,0.005594595,https://en.wikipedia.org/wiki/List_of_television_networks_by_country
+306,List of the largest information technology companies,0.013540541,https://en.wikipedia.org/wiki/List_of_largest_technology_companies_by_revenue
+307,List of touch-solution manufacturers,0,https://en.wikipedia.org/wiki/List_of_touch-solution_manufacturers
+308,List of traction motor manufacturers,0.012081081,https://en.wikipedia.org/wiki/List_of_traction_motor_manufacturers
+309,List of tractor manufacturers,0.014837838,https://en.wikipedia.org/wiki/List_of_tractor_manufacturers
+310,List of tram builders,0.102135135,https://en.wikipedia.org/wiki/List_of_tram_builders
+311,List of venture capital firms,0.015432432,https://en.wikipedia.org/wiki/List_of_venture_capital_firms
+312,List of vineyards and wineries,0.010243243,https://en.wikipedia.org/wiki/List_of_vineyards_and_wineries
+313,List of wind turbine manufacturers,0.020324324,https://en.wikipedia.org/wiki/List_of_wind_turbine_manufacturers
+314,Lists of airlines,0.008405405,https://en.wikipedia.org/wiki/Lists_of_airlines
+315,Lists of banks,0.012405405,https://en.wikipedia.org/wiki/Lists_of_banks
+316,Lists of bookstores,0.020810811,https://en.wikipedia.org/wiki/Bookselling
+317,Lists of companies,0.011216216,https://en.wikipedia.org/wiki/Lists_of_companies
+318,Lists of record labels,0.010756757,https://en.wikipedia.org/wiki/Lists_of_record_labels
+319,Lists of video game companies,0.008162162,https://en.wikipedia.org/wiki/Lists_of_video_game_companies
+320,Locus Biosciences,0.005189189,https://en.wikipedia.org/wiki/Locus_Biosciences
+321,Lundbeck,0,https://en.wikipedia.org/wiki/L%C3%BCbeck
+322,Lupin Limited,0.00127027,https://en.wikipedia.org/wiki/Lupin_Limited
+323,Mallinckrodt,0.014702703,https://en.wikipedia.org/wiki/Mallinckrodt
+324,MannKind Corporation,0.002378378,https://en.wikipedia.org/wiki/MannKind_Corporation
+325,Marcia Angell,0,https://en.wikipedia.org/wiki/Marcia_Angell
+326,Maxygen,0.009567568,https://en.wikipedia.org/wiki/Maxygen
+327,McGuff Companies,0.051810811,https://en.wikipedia.org/wiki/McGuff_Companies
+328,McNeil Consumer Healthcare,0.007918919,https://en.wikipedia.org/wiki/McNeil_Consumer_Healthcare
+329,MedImmune,0.005081081,https://en.wikipedia.org/wiki/MedImmune
+330,Meda AB,0.006054054,https://en.wikipedia.org/wiki/Meda_AB
+331,Medac,0.00472973,https://en.wikipedia.org/wiki/The_Who_Sell_Out
+332,Medarex,0.010486486,https://en.wikipedia.org/wiki/Medarex
+333,Medinfar,0,https://en.wikipedia.org/wiki/Medinfar
+334,Melior Discovery,0.052135135,https://en.wikipedia.org/wiki/Melior_Discovery
+335,Menarini,0.009891892,https://en.wikipedia.org/wiki/Menarini
+336,Merck & Co.,0.005108108,https://en.wikipedia.org/wiki/Merck_%26_Co.
+337,Merck Group,0.000756757,https://en.wikipedia.org/wiki/Merck_Group
+338,Mitsubishi Tanabe Pharma,0.081405405,https://en.wikipedia.org/wiki/Mitsubishi_Tanabe_Pharma
+339,Molecular Partners,0.002648649,https://en.wikipedia.org/wiki/Molecular_Partners
+340,Mustang Bio,0.005891892,https://en.wikipedia.org/wiki/Mustang_Bio
+341,Mylan,0,https://en.wikipedia.org/wiki/Hua_Mulan
+342,NovaBay Pharmaceuticals,0.044297297,https://en.wikipedia.org/wiki/NovaBay_Pharmaceuticals
+343,Novartis,0,https://en.wikipedia.org/wiki/Novartis
+344,Novo Nordisk,0.007,https://en.wikipedia.org/wiki/Novo_Nordisk
+345,Noxxon Pharma,0.013513514,https://en.wikipedia.org/wiki/Noxxon_Pharma
+346,Nycomed,0.074,https://en.wikipedia.org/wiki/Nycomed
+347,Octapharma,0.066567568,https://en.wikipedia.org/wiki/Octapharma
+348,Onyx Pharmaceuticals,0,https://en.wikipedia.org/wiki/Onyx_Pharmaceuticals
+349,Orexo,0.018567568,https://en.wikipedia.org/wiki/Orexo
+350,Orion Corporation,0.011297297,https://en.wikipedia.org/wiki/Orion_Corporation
+351,Ortho-McNeil Pharmaceutical,0.053945946,https://en.wikipedia.org/wiki/Ortho-McNeil_Pharmaceutical
+352,Ortho Pharmaceutical,0,https://en.wikipedia.org/wiki/Ortho_Pharmaceutical
+353,Otsuka Pharmaceutical,0,https://en.wikipedia.org/wiki/Otsuka_Pharmaceutical
+354,Oxford BioMedica,0.006378378,https://en.wikipedia.org/wiki/Oxford_BioMedica
+355,PATH (global health organization),0.017432432,https://en.wikipedia.org/wiki/PATH_(global_health_organization)
+356,PainCeptor Pharma,0.005108108,https://en.wikipedia.org/wiki/PainCeptor_Pharma
+357,Panacea Biotec,0.022783784,https://en.wikipedia.org/wiki/Panacea_Biotec
+358,Par Pharmaceutical,0.02627027,https://en.wikipedia.org/wiki/Endo_International
+359,Perrigo,0.01372973,https://en.wikipedia.org/wiki/Perrigo
+360,Perseid Therapeutics,0.009567568,https://en.wikipedia.org/wiki/Maxygen
+361,Pfizer,0.047162162,https://en.wikipedia.org/wiki/Pfizer
+362,Pharma Medica,0.006567568,https://en.wikipedia.org/wiki/Pharma_Medica
+363,Pharma Nord,0.041081081,https://en.wikipedia.org/wiki/Pharma_Nord
+364,Pharmaceutical Product Development,0.009135135,"https://en.wikipedia.org/wiki/PPD,_Inc."
+365,Pharmaceutical companies,0.053486486,https://en.wikipedia.org/wiki/Pharmaceutical_industry
+366,Pharmaceutical industry,0.053486486,https://en.wikipedia.org/wiki/Pharmaceutical_industry
+367,Pharmaceutical industry in Bangladesh,0.068081081,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_Bangladesh
+368,Pharmaceutical industry in China,0.045243243,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_China
+369,Pharmaceutical industry in India,0.069297297,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_India
+370,Pharmaceutical industry in Pakistan,0.004783784,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_Pakistan
+371,Pharmaceutical industry in Russia,0.04427027,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_Russia
+372,Pharmaceutical industry in Switzerland,0,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_Switzerland
+373,Pharmaceutical industry in the People's Republic of China,0.045243243,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_China
+374,Pharmaceutical industry in the United Kingdom,0.031243243,https://en.wikipedia.org/wiki/Pharmaceutical_industry_in_the_United_Kingdom
+375,Pharmacia,0.011027027,https://en.wikipedia.org/wiki/Pharmakia
+376,Pharmacosmos,0.049783784,https://en.wikipedia.org/wiki/Pharmacosmos
+377,Pharmascience,0.000459459,https://en.wikipedia.org/wiki/Pharmascience
+378,Piramal Group,0.033135135,https://en.wikipedia.org/wiki/Piramal_Group
+379,Plexxikon,0.005648649,https://en.wikipedia.org/wiki/Plexxikon
+380,Pliva,0.005108108,https://en.wikipedia.org/wiki/Pliva
+381,ProMetic Life Sciences,0.001648649,https://en.wikipedia.org/wiki/Liminal_BioSciences
+382,Procter & Gamble,0.003837838,https://en.wikipedia.org/wiki/Procter_%26_Gamble
+383,Proteolix,0.008540541,https://en.wikipedia.org/wiki/Proteolix
+384,Purdue Pharma,0.006918919,https://en.wikipedia.org/wiki/Purdue_Pharma
+385,Ranbaxy Laboratories,0.026702703,https://en.wikipedia.org/wiki/Ranbaxy_Laboratories
+386,Reckitt Benckiser,0.026297297,https://en.wikipedia.org/wiki/Reckitt_Benckiser
+387,Regeneron Pharmaceuticals,0.052837838,https://en.wikipedia.org/wiki/Regeneron_Pharmaceuticals
+388,Renovo plc,0.012081081,https://en.wikipedia.org/wiki/Renovo_plc
+389,Repligen,0,https://en.wikipedia.org/wiki/Repligen
+390,Rhône-Poulenc,0.02527027,https://en.wikipedia.org/wiki/Rh%C3%B4ne-Poulenc
+391,Rubicon Research,0.040837838,https://en.wikipedia.org/wiki/Rubicon_Research
+392,SIGA Technologies,0.011162162,https://en.wikipedia.org/wiki/SIGA_Technologies
+393,STADA Arzneimittel,0.00127027,https://en.wikipedia.org/wiki/Stada_Arzneimittel
+394,Saidal,0.038945946,https://en.wikipedia.org/wiki/Saidal
+395,Salix Pharmaceuticals,0.002108108,https://en.wikipedia.org/wiki/Salix_Pharmaceuticals
+396,Sangamo Therapeutics,0.013432432,https://en.wikipedia.org/wiki/Sangamo_Therapeutics
+397,Sanofi,0.010702703,https://en.wikipedia.org/wiki/Sanofi
+398,Sanofi Pasteur,0.000648649,https://en.wikipedia.org/wiki/Sanofi_Pasteur
+399,Schering-Plough,0.008351351,https://en.wikipedia.org/wiki/Schering-Plough
+400,Semiconductor equipment sales leaders by year,0.040783784,https://en.wikipedia.org/wiki/Semiconductor_equipment_sales_leaders_by_year
+401,Serum Institute of India,0.008189189,https://en.wikipedia.org/wiki/Serum_Institute_of_India
+402,Shionogi,0.001540541,https://en.wikipedia.org/wiki/Shionogi
+403,Shire (pharmaceutical company),0.059297297,https://en.wikipedia.org/wiki/Shire_(pharmaceutical_company)
+404,Side Effects (Bass book),0.022567568,https://en.wikipedia.org/wiki/Side_Effects_(Bass_book)
+405,Sigma Healthcare,0.000945946,https://en.wikipedia.org/wiki/Sigma_Healthcare
+406,Sinopharm Group,0.058351351,https://en.wikipedia.org/wiki/Sinopharm_Group
+407,"Smith, Kline & French",0.013216216,"https://en.wikipedia.org/wiki/Smith,_Kline_%26_French"
+408,Solvay S.A.,0.012027027,https://en.wikipedia.org/wiki/Solvay_S.A.
+409,Sphere Fluidics,0.02627027,https://en.wikipedia.org/wiki/Sphere_Fluidics
+410,Square Pharmaceuticals,0.082054054,https://en.wikipedia.org/wiki/Square_Pharmaceuticals
+411,State Pharmaceuticals Corporation of Sri Lanka,0.026972973,https://en.wikipedia.org/wiki/State_Pharmaceuticals_Corporation_of_Sri_Lanka
+412,Stiefel Laboratories,0.001459459,https://en.wikipedia.org/wiki/Stiefel_Laboratories
+413,Strides Arcolab,0.001054054,https://en.wikipedia.org/wiki/Strides_Pharma_Science_Limited
+414,Stryker Corporation,0.008189189,https://en.wikipedia.org/wiki/Stryker_Corporation
+415,Sucampo Pharmaceuticals,0.005405405,https://en.wikipedia.org/wiki/Sucampo_Pharmaceuticals
+416,Sumitomo Dainippon Pharma,0,https://en.wikipedia.org/wiki/Sumitomo_Dainippon_Pharma
+417,Sun Pharmaceutical,0.001351351,https://en.wikipedia.org/wiki/Sun_Pharma
+418,Sunovion,0.02572973,https://en.wikipedia.org/wiki/Sunovion
+419,Sutro Biopharma,0.008162162,https://en.wikipedia.org/wiki/Sutro_Biopharma
+420,Swedish Orphan Biovitrum,0.001405405,https://en.wikipedia.org/wiki/Swedish_Orphan_Biovitrum
+421,Takeda Pharmaceutical Company,0.072513514,https://en.wikipedia.org/wiki/Takeda_Pharmaceutical_Company
+422,Taro Pharmaceuticals,0,https://en.wikipedia.org/wiki/Taro_Pharmaceuticals
+423,Tasly,0.054486486,https://en.wikipedia.org/wiki/Tasly
+424,Teva Active Pharmaceutical Ingredients,0.071081081,https://en.wikipedia.org/wiki/Teva_Active_Pharmaceutical_Ingredients
+425,Teva Pharmaceuticals,0.051648649,https://en.wikipedia.org/wiki/Teva_Pharmaceuticals
+426,The Billion-Dollar Molecule,0.008540541,https://en.wikipedia.org/wiki/The_Billion-Dollar_Molecule
+427,Torrent Pharmaceuticals,0.002135135,https://en.wikipedia.org/wiki/Torrent_Pharmaceuticals
+428,Turing Pharmaceuticals,0.003459459,https://en.wikipedia.org/wiki/Vyera_Pharmaceuticals
+429,UCB (company),0.001162162,https://en.wikipedia.org/wiki/UCB_(company)
+430,USV Private Limited,0.012081081,https://en.wikipedia.org/wiki/USV_Private_Limited
+431,Unichem Laboratories,0,https://en.wikipedia.org/wiki/Unichem_Laboratories
+432,United States,0.024864865,https://en.wikipedia.org/wiki/United_States
+433,Upjohn,0.045054054,https://en.wikipedia.org/wiki/Upjohn
+434,Veloxis Pharmaceuticals,0.020783784,https://en.wikipedia.org/wiki/Veloxis_Pharmaceuticals
+435,Vertex Pharmaceuticals,0.031621622,https://en.wikipedia.org/wiki/Vertex_Pharmaceuticals
+436,"Vion Pharmaceuticals, Inc.",0.008540541,https://en.wikipedia.org/wiki/Vion_Pharmaceuticals
+437,ViroMed,0.005081081,https://en.wikipedia.org/wiki/LabCorp
+438,Warner-Lambert,0.012081081,https://en.wikipedia.org/wiki/Warner%E2%80%93Lambert
+439,Wockhardt,0.001486486,https://en.wikipedia.org/wiki/Wockhardt
+440,WuXi AppTec,0.003459459,https://en.wikipedia.org/wiki/WuXi_AppTec
+441,Wyeth,0.001540541,https://en.wikipedia.org/wiki/Wyeth
